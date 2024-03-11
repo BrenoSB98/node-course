@@ -28,4 +28,3 @@ fs.writeFile(__dirname + "/products.json", JSON.stringify(products), (err) => {
     console.log("The file was saved!");
   }
 });
-
